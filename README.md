@@ -1,4 +1,4 @@
-# 🔝 Top - rated @Upwork Freelancer with expertise in Machine Learning, Deep Learning, Data Engineering, Computer Vision, and Image Processing. 
+#  $Top$ - $rated$ @Upwork $Freelancer$ $with$ $expertise$ in Machine Learning, Deep Learning, Data Engineering, Computer Vision, and Image Processing. 
 
 <table>
   <tr>
