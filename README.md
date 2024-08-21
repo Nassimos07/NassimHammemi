@@ -20,9 +20,9 @@
 <table>
     <tr>
         <th>Project Repository</th>
-        <th>Project Description</th>
+        <th> Description</th>
         <th> Medidm Article ⚫</th>
-        <th>Youtube Tutorial🔴 / Video</th>
+        <th>Youtube Tutorial / Video 🔴</th>
         <th>Others</th>
     </tr>
     <tr>
