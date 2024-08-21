@@ -1,13 +1,5 @@
+# Machine Learning| Deep Learning| Data Engineering| Computer Vision| Image Processing
 
-#  Top - Rated Freelancer at ``Upwork`` 
-
-## Machine Learning| Deep Learning| Data Engineering| Computer Vision| Image Processing
-<div align="center">
-
-  
-Hire Nassim now on ``Upwork``   [https://www.upwork.com/freelancers/~013cf1e92a2b62e552](https://www.upwork.com/freelancers/~013cf1e92a2b62e552):
-[![Upwork](images/im.png)](https://www.upwork.com/freelancers/~013cf1e92a2b62e552)
-<div>
 
 
 <table>
@@ -44,10 +36,16 @@ Hire Nassim now on ``Upwork``   [https://www.upwork.com/freelancers/~013cf1e92a2
     </tr>
 </table>
 
-
+<h3>Hire me now on Upwork🚀</h3>
+<a href="https://www.upwork.com/freelancers/~013cf1e92a2b62e552">
+    <img src="images/im.png" /> 
+    Upwork Profile Link 
+</a>
 
 <h3> Let's connect🚀💪</h3>   
 
 <a href="https://www.linkedin.com/in/nassim-hammami-771015217/">LinkedIn</a> ||
 <a href="https://medium.com/@nassim.hammami98">Medium</a> ||
+
+
 
