@@ -42,6 +42,14 @@
         <td><a href="https://www.youtube.com/watch?v=_MJZID5qaQE"> Youtube Video </a></td>
         <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervision-yolov8-imageprocessing-activity-7232050148745383936-9wJ8?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
     </tr>
+        <tr>
+        <td> <a href="https://github.com/Nassimos07/YOLOv8_YOLOv10_Person_segmentation_blurred_AI_solution"> 🚀 BlurGuard: AI Tool for Intelligent Region of Interest Protection
+ </a></td>
+        <td> In today's digital age, protecting privacy and complying with copyright policies in visual content is more important than ever. That's why I've developed an AI-powered tool designed to automatically blur non-essential regions in images and videos, ensuring that only the person of interest remains clear.</td>
+        <td><a> - </a></td>
+        <td><a href="https://www.youtube.com/watch?v=_MJZID5qaQE"> Youtube Video </a></td>
+        <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervision-yolov8-imageprocessing-activity-7232050148745383936-9wJ8?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
+    </tr>
   
 </table>
 
