@@ -43,12 +43,12 @@
         <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervision-yolov8-imageprocessing-activity-7232050148745383936-9wJ8?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
     </tr>
         <tr>
-        <td> <a href="https://github.com/Nassimos07/YOLOv8_YOLOv10_Person_segmentation_blurred_AI_solution"> 🚀 BlurGuard: AI Tool for Intelligent Region of Interest Protection
+        <td> <a href="https://github.com/Nassimos07/Entering-Exiting-Persons-Counting-using-YOLOv8-YOLOv10-Roboflow-Supervision"> 🚀 BlurGuard: AI Tool for Intelligent Region of Interest Protection
  </a></td>
-        <td> In today's digital age, protecting privacy and complying with copyright policies in visual content is more important than ever. That's why I've developed an AI-powered tool designed to automatically blur non-essential regions in images and videos, ensuring that only the person of interest remains clear.</td>
+        <td>In this project, I demonstrate how to count the number of people entering and exiting a designated area using cutting-edge object detection models, YOLOv8 and YOLOv10, combined with the powerful capabilities of Roboflow Supervision. Whether you're working on security systems, retail analytics, or just curious about advanced computer vision techniques, this tutorial covers everything you need to know.</td>
         <td><a> - </a></td>
-        <td><a href="https://www.youtube.com/watch?v=_MJZID5qaQE"> Youtube Video </a></td>
-        <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervision-yolov8-imageprocessing-activity-7232050148745383936-9wJ8?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
+        <td><a href="https://www.youtube.com/watch?v=cJAiuTkZmmE"> Youtube Video </a></td>
+        <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_excited-to-announce-my-latest-project-activity-7073713645519609856-S8q2?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
     </tr>
   
 </table>
