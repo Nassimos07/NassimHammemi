@@ -43,7 +43,8 @@
         <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervision-yolov8-imageprocessing-activity-7232050148745383936-9wJ8?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
     </tr>
         <tr>
-        <td> <a href="https://github.com/Nassimos07/Entering-Exiting-Persons-Counting-using-YOLOv8-YOLOv10-Roboflow-Supervision"> 🚀 BlurGuard: AI Tool for Intelligent Region of Interest Protection
+        <td> <a href="https://github.com/Nassimos07/Entering-Exiting-Persons-Counting-using-YOLOv8-YOLOv10-Roboflow-Supervision"> 🚀Entering−Exiting Persons Counting using YOLOv8 -YOLOv10 & Roboflow Supervision
+
  </a></td>
         <td>In this project, I demonstrate how to count the number of people entering and exiting a designated area using cutting-edge object detection models, YOLOv8 and YOLOv10, combined with the powerful capabilities of Roboflow Supervision. Whether you're working on security systems, retail analytics, or just curious about advanced computer vision techniques, this tutorial covers everything you need to know.</td>
         <td><a> - </a></td>
