@@ -26,7 +26,7 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
 <tr>
         <td> <a href="https://github.com/Nassimos07/Moving-Stopped-Persons-Real-Time-Detection-using-YOLOv8-or-YOLOv10-Roboflow_Supervision"> Moving🚶 - Stopped🧍‍♂️Persons Real-Time Detection | YOLOv8 & Supervison
        </a></td>
-        <td> Computer Vision (Object Tracking) </td>
+        <td> ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ  </td>
         <td> The purpose of this solution is to deliver a  <strong>real-time</strong> or post-event tool capable of accurately detecting, visualizing, and </strong> distinguishing </strong> between moving and stationary individuals. This project holdssignificant potential as a security solution.</td>
         <td><a href="https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954"> Medium Story </a></td>
         <td><a href="https://www.youtube.com/watch?v=2iE7njAYJfc&list=PLFyl9hXJyrf8_2-Zrl6CDXjHmzKwgD1ln&pp=gAQBiAQB"> Youtube Video </a></td>
@@ -35,7 +35,7 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
   
 <tr>
         <td> <a href="https://github.com/Nassimos07/YOLOv8_YOLOv10_Person_segmentation_blurred_AI_solution"> 🚀 BlurGuard: AI Tool for Intelligent Region of Interest Protection</a></td>
-        <td> Computer Vision (Object Segmentation) </td>
+        <td> ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ </td>
         <td> In today's digital age, protecting privacy and complying with copyright policies in visual content is more important than ever. That's why I've developed an AI-powered tool designed to automatically blur 
         non-essential regions in images and videos, ensuring that only the person of interest remains clear.</td>
         <td><a> - </a></td>
@@ -45,7 +45,7 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
   
 <tr>
         <td><a href="https://github.com/Nassimos07/Entering-Exiting-Persons-Counting-using-YOLOv8-YOLOv10-Roboflow-Supervision">  🚪🚶 Entering−Exiting Persons Counting using YOLOv8 -YOLOv10 & Roboflow Supervision</a></td>
-        <td> </td>
+        <td> ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ </td>
         <td>In this project, I demonstrate how to count the number of people entering and exiting a designated area using cutting-edge object detection models, YOLOv8 and YOLOv10, combined with the powerful capabilities 
         of Roboflow Supervision. Whether you're working on security systems, retail analytics, or just curious about advanced computer vision techniques, this tutorial covers everything you need to know.</td>
         <td><a> - </a></td>
@@ -54,6 +54,22 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
 </tr>
   
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3>Hire me now on Upwork🚀</h3>
 <a href="https://www.upwork.com/freelancers/~013cf1e92a2b62e552">
