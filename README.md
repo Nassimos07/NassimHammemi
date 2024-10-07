@@ -20,17 +20,15 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
     <th> ᴘʀᴏᴊᴇᴄᴛ ᴏᴠᴇʀᴠɪᴇᴡ ✎ </th>  
     <th>𝕸𝖊𝖉𝖎𝖚𝖒 𝕾𝖙𝖔𝖗𝖞✍ <img src="images/md.svg" width="40" height="20"> </th>  
     <th>ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ <img src="images/yt.png" width="35" height="20"> </th>  
-    <th>ᴏᴛʜᴇʀ</th>  
 </tr>
   
 <tr>
         <td> <a href="https://github.com/Nassimos07/Moving-Stopped-Persons-Real-Time-Detection-using-YOLOv8-or-YOLOv10-Roboflow_Supervision"> Moving🚶 - Stopped🧍‍♂️Persons Real-Time Detection | YOLOv8 & Supervison
        </a></td>
         <td> ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ  </td>
-        <td> The purpose of this solution is to deliver a  <strong>real-time</strong> or post-event tool capable of accurately detecting, visualizing, and </strong> distinguishing </strong> between moving and stationary individuals. This project holdssignificant potential as a security solution.</td>
+        <td> The purpose of this solution is to deliver a  <strong>real-time</strong> or post-event tool capable of accurately detecting, visualizing, and </strong> distinguishing </strong> between moving and stationary individuals. This project holdssignificant potential as a security solution <img src="images/md.svg" width="400" height="100"> .</td>
         <td><a href="https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954"> Medium Story </a></td>
         <td><a href="https://www.youtube.com/watch?v=2iE7njAYJfc&list=PLFyl9hXJyrf8_2-Zrl6CDXjHmzKwgD1ln&pp=gAQBiAQB"> Youtube Video </a></td>
-        <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervison-yolov8-yolov9-activity-7229528097463619585-pBlj?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
 </tr>
   
 <tr>
@@ -40,7 +38,6 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
         non-essential regions in images and videos, ensuring that only the person of interest remains clear.</td>
         <td><a> - </a></td>
         <td><a href="https://www.youtube.com/watch?v=_MJZID5qaQE"> Youtube Video </a></td>
-        <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_computervision-yolov8-imageprocessing-activity-7232050148745383936-9wJ8?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
 </tr>
   
 <tr>
@@ -50,7 +47,6 @@ Hello! 😊 I'm Nassim, a Machine Learning Engineer with 3 years of experience, 
         of Roboflow Supervision. Whether you're working on security systems, retail analytics, or just curious about advanced computer vision techniques, this tutorial covers everything you need to know.</td>
         <td><a> - </a></td>
         <td><a href="https://www.youtube.com/watch?v=cJAiuTkZmmE"> Youtube Video </a></td>
-        <td><a href="https://www.linkedin.com/posts/nassim-hammami-771015217_excited-to-announce-my-latest-project-activity-7073713645519609856-S8q2?utm_source=share&utm_medium=member_desktop">LinkedIn Post</a></td>
 </tr>
   
 </table>
